@@ -1,0 +1,17 @@
+.mainBlock{
+  border-radius: 7px;
+  box-sizing: border-box;
+  text-align: center;
+  background-color: rgb(224,208,182);
+  padding: 20px;
+  width: 100%;
+  max-width: 300px;
+  margin: 110px auto;
+  display: table;
+  box-shadow: royalblue;
+}
+.Error{
+  padding: 12px;
+  background: rgb(143, 124, 71);
+  border: 1px solid;
+}
